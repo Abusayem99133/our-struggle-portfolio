@@ -12,7 +12,7 @@ body{
 
 .banner-title{
    
-    background: url(/images/banner/banner3.png);
+    background: url(./images/banner/banner3.png);
     background-repeat: no-repeat;
     background-size:initial;
     /* width: 1330px; */
