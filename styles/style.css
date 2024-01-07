@@ -88,9 +88,13 @@ body{
  .sec-1{
     display: flex;
     margin-top: 140px;
-    /* padding: 16px; */
+    padding: 30px;
  }
  .sec-2{
     margin-top: 150px;
-    /* margin-left: 115px; */
+    margin-left: 115px;
  }
+/* new section style  */
+.heading-1{
+    text-align: center;
+}
