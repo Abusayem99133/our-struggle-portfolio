@@ -103,3 +103,8 @@ body{
     justify-content: space-between;
     padding: 20px;
 }
+/* last title  */
+
+.last-title{
+    background-image: url(/images/watch.png), url(/images/gradient3.png);
+}
